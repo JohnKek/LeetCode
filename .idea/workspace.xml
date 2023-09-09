@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef09b6a-9c4c-45c4-a5d2-741ff80aec87" name="Changes" comment="two-sum">
-      <change afterPath="$PROJECT_DIR$/src/AddTwoNumbers/Solution.java" afterDir="false" />
+    <list default="true" id="fef09b6a-9c4c-45c4-a5d2-741ff80aec87" name="Changes" comment="addTwoNumbers">
+      <change afterPath="$PROJECT_DIR$/src/lengthOfLongestSubstring/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AddTwoNumbers.Solution">
+  <component name="RunManager" selected="Application.lengthOfLongestSubstring.Solution">
     <configuration name="AddTwoNumbers.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTwoNumbers.Solution" />
       <module name="LeetCodeSolutions" />
@@ -63,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lengthOfLongestSubstring.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lengthOfLongestSubstring.Solution" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lengthOfLongestSubstring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lengthOfLongestSubstring.Solution" />
         <item itemvalue="Application.AddTwoNumbers.Solution" />
         <item itemvalue="Application.Solution" />
       </list>
@@ -78,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694257788054</updated>
-      <workItem from="1694257791278" duration="11028000" />
+      <workItem from="1694257791278" duration="11920000" />
     </task>
     <task id="LOCAL-00001" summary="two-sum">
       <created>1694260073206</created>
@@ -87,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694260073206</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="addTwoNumbers">
+      <created>1694269075770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269075770</updated>
+    </task>
+    <task id="LOCAL-00003" summary="addTwoNumbers">
+      <created>1694269151014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269151014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +134,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="two-sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="two-sum" />
+    <MESSAGE value="addTwoNumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="addTwoNumbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -118,8 +147,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AddTwoNumbers/Solution.java</url>
-          <line>11</line>
+          <line>4</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lengthOfLongestSubstring/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
