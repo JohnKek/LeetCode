@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef09b6a-9c4c-45c4-a5d2-741ff80aec87" name="Changes" comment="addTwoNumbers">
-      <change afterPath="$PROJECT_DIR$/src/lengthOfLongestSubstring/Solution.java" afterDir="false" />
+    <list default="true" id="fef09b6a-9c4c-45c4-a5d2-741ff80aec87" name="Changes" comment="lengthOfLongestSubstring">
+      <change afterPath="$PROJECT_DIR$/src/median/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lengthOfLongestSubstring.Solution">
+  <component name="RunManager" selected="Application.median.Solution">
     <configuration name="AddTwoNumbers.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTwoNumbers.Solution" />
       <module name="LeetCodeSolutions" />
@@ -76,8 +76,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="median.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="median.Solution" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="median.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.median.Solution" />
         <item itemvalue="Application.lengthOfLongestSubstring.Solution" />
         <item itemvalue="Application.AddTwoNumbers.Solution" />
         <item itemvalue="Application.Solution" />
@@ -92,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694257788054</updated>
-      <workItem from="1694257791278" duration="11920000" />
+      <workItem from="1694257791278" duration="19298000" />
     </task>
     <task id="LOCAL-00001" summary="two-sum">
       <created>1694260073206</created>
@@ -115,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694269151014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lengthOfLongestSubstring">
+      <created>1694269887922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269887922</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="two-sum" />
     <MESSAGE value="addTwoNumbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="addTwoNumbers" />
+    <MESSAGE value="lengthOfLongestSubstring" />
+    <option name="LAST_COMMIT_MESSAGE" value="lengthOfLongestSubstring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
